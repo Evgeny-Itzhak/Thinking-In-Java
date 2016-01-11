@@ -1,4 +1,4 @@
-package com.company.luxoft;
+package com.company.home;
 
 import java.util.Arrays;
 
