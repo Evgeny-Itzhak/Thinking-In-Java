@@ -6,7 +6,7 @@ package com.company.home;
 
 public class SummingNumbersTask {
 
-    public static int sumNumbers(Integer numbers){
+    public static int sumNumbers(int numbers){
 
         int inputNumber = numbers;
         int result=0;
