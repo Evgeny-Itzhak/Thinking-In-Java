@@ -1,4 +1,4 @@
-package com.company.home;
+package com.company.home.tasksfrominteview;
 
 /*
 * Написать метод, который получает на вход интовое число и находит сумму всех его цифр.

@@ -1,4 +1,4 @@
-package com.company.home;
+package com.company.home.tasksfrominteview;
 
 import static org.junit.Assert.*;
 

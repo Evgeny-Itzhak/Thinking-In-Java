@@ -1,4 +1,4 @@
-package com.company.home;
+package com.company.home.tasksfrominteview;
 
 /*  Написать метод, который определяет фразы-палиндромы.
 *   Например, "А роза упала на лапу азора."

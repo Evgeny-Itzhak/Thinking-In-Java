@@ -1,4 +1,4 @@
-package com.company.home;
+package com.company.home.tasksfrominteview;
 
 import java.util.Arrays;
 
@@ -25,6 +25,6 @@ public class FibonacciTask {
 
 
     public static void main(String[] args) {
-        System.out.println(countFibonacci(-5));
+        System.out.println(countFibonacci(8));
     }
 }
